@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jdbc="http://www.springframework.org/schema/jdbc"
+	xmlns:jee="http://www.springframework.org/schema/jee"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:task="http://www.springframework.org/schema/task"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:jpa="http://www.springframework.org/schema/data/jpa"
+	xsi:schemaLocation="
+         http://www.springframework.org/schema/data/jpa http://www.springframework.org/schema/data/jpa/spring-jpa-1.3.xsd  
+		http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd
+		http://www.springframework.org/schema/jdbc http://www.springframework.org/schema/jdbc/spring-jdbc-4.0.xsd
+		http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-4.0.xsd
+		http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.0.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.0.xsd
+		http://www.springframework.org/schema/task http://www.springframework.org/schema/task/spring-task-4.0.xsd
+		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-4.0.xsd">
+
+	<description>Spring Configuration</description>
+	<!-- 用于扫描 注解 -->
+	<context:component-scan
+		base-package="com.acts.opencv" />
+	<!-- 加载配置文件 可以是多个 -->
+	<bean id="properties"
+		class="org.springframework.beans.factory.config.PropertiesFactoryBean">
+		<property name="locations">
+			<list>
+				<value>classpath:database.properties</value>
+				<value>classpath:config.properties</value>
+				<!-- <value>classpath:redis.properties</value> -->
+			</list>
+		</property>
+	</bean>
+	<bean id="propertyConfigurer"
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="properties" ref="properties" />
+	</bean>
+
+	<!--dataSource -->
+	<!-- <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" 
+		destroy-method="close"> 数据库基本信息配置 <property name="driverClassName" value="${driverClassName}" 
+		/> <property name="Url" value="${url}" /> <property name="username" value="${username}" 
+		/> <property name="password" value="${password}" /> 初始化连接数量 <property name="initialSize" 
+		value="${initialSize}" /> 最大并发连接数 <property name="maxActive" value="${maxActive}" 
+		/> 最小空闲连接数 <property name="minIdle" value="${minIdle}" /> 配置获取连接等待超时的时间 <property 
+		name="maxWait" value="${maxWait}" /> 超过时间限制是否回收 <property name="removeAbandoned" 
+		value="${removeAbandoned}" /> 超过时间限制多长； <property name="removeAbandonedTimeout" 
+		value="${removeAbandonedTimeout}" /> 配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒 <property 
+		name="timeBetweenEvictionRunsMillis" value="${timeBetweenEvictionRunsMillis}" 
+		/> 配置一个连接在池中最小生存的时间，单位是毫秒 <property name="minEvictableIdleTimeMillis" value="${minEvictableIdleTimeMillis}" 
+		/> 用来检测连接是否有效的sql，要求是一个查询语句 ||抛弃此种方式的连接检查 <property name="validationQuery" 
+		value="${validationQuery}" /> 申请连接的时候检测 <property name="testWhileIdle" value="${testWhileIdle}" 
+		/> 申请连接时执行validationQuery检测连接是否有效，配置为true会降低性能 <property name="testOnBorrow" 
+		value="${testOnBorrow}" /> 归还连接时执行validationQuery检测连接是否有效，配置为true会降低性能 <property 
+		name="testOnReturn" value="${testOnReturn}" /> 打开PSCache，并且指定每个连接上PSCache的大小 
+		<property name="poolPreparedStatements" value="${poolPreparedStatements}" 
+		/> <property name="maxPoolPreparedStatementPerConnectionSize" value="${maxPoolPreparedStatementPerConnectionSize}" 
+		/> 属性类型是字符串，通过别名的方式配置扩展插件，常用的插件有： 监控统计用的filter:stat 日志用的filter:log4j 防御SQL注入的filter:wall 
+		<property name="filters" value="${filters}" /> </bean> -->
+	<!-- Hibernate对Jpa的实现 -->
+	<bean id="hibernateJpaVendorAdapter"
+		class="org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter" />
+
+	<!-- 配置 JPA 的 EntityManagerFactory -->
+	<!-- <bean id="entityManagerFactory" class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean"> 
+		指定数据源 <property name="dataSource" ref="dataSource"/> 指定Jpa持久化实现厂商类,这里以Hibernate为例 
+		<property name="jpaVendorAdapter" ref="hibernateJpaVendorAdapter"/> 指定Entity实体类包路径 
+		<property name="packagesToScan" value="com.acts.opencv"></property> 指定JPA属性；如Hibernate中指定是否显示SQL的是否显示、方言等 
+		<property name="jpaProperties"> <props> <prop key="hibernate.ejb.naming_strategy">org.hibernate.cfg.ImprovedNamingStrategy</prop> 
+		<prop key="hibernate.hbm2ddl.auto">update</prop> <prop key="hibernate.show_sql">true</prop> 
+		<prop key="hibernate.format_sql">false</prop> <prop key="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</prop> 
+		<prop key="hibernate.cache.use_second_level_cache">false</prop> <prop key="hibernate.cache.region.factory_class">org.hibernate.cache.ehcache.EhCacheRegionFactory</prop> 
+		<prop key="hibernate.cache.use_query_cache">false</prop> </props> </property> 
+		<property name="sharedCacheMode" value="ENABLE_SELECTIVE"></property> </bean> -->
+	<!-- 定义事务 -->
+	<!-- <bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager"> 
+		<property name="entityManagerFactory" ref="entityManagerFactory"/> </bean> -->
+	<!-- 配置 Annotation 驱动，扫描@Transactional注解的类定义事务 -->
+	<!-- <tx:annotation-driven transaction-manager="transactionManager"/> 配置 
+		SpringData <jpa:repositories base-package="com.acts.opencv" entity-manager-factory-ref="entityManagerFactory"/> 
+		<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate"> 
+		<property name="dataSource" ref="dataSource"/> </bean> -->
+
+	<!-- redis 配置 <bean id="jedisPoolConfig" class="redis.clients.jedis.JedisPoolConfig" 
+		/> <bean id="jedisConnectionFactory" class="org.springframework.data.redis.connection.jedis.JedisConnectionFactory"> 
+		<property name="hostName" value="${redis.host}" /> <property name="port" 
+		value="${redis.port}" /> <property name="password" value="${redis.password}" 
+		/> <property name="timeout" value="${redis.timeout}" /> <property name="poolConfig" 
+		ref="jedisPoolConfig" /> <property name="usePool" value="true" /> </bean> 
+		<bean id="redisTemplate" class="org.springframework.data.redis.core.StringRedisTemplate"> 
+		<property name="connectionFactory" ref="jedisConnectionFactory" /> </bean> 
+		将session放入redis <context:annotation-config /> <bean id="redisHttpSessionConfiguration" 
+		class="org.springframework.session.data.redis.config.annotation.web.http.RedisHttpSessionConfiguration"> 
+		<property name="maxInactiveIntervalInSeconds" value="1800" /> </bean> -->
+
+</beans>

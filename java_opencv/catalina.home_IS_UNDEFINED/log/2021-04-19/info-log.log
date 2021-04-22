@@ -1,0 +1,5 @@
+2021-04-19 11:02:27.522 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-19 11:02:27.582 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-19 11:02:27.582 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-19 11:02:27.582 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-19 11:02:27.582 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654

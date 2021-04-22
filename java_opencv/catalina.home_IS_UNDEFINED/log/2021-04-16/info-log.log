@@ -1,0 +1,179 @@
+2021-04-16 14:30:41.104 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\654788804DFD495A84E0578274DC0485.jpg
+2021-04-16 14:30:41.157 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：100.00798
+2021-04-16 14:30:41.157 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：100.00797980144135
+2021-04-16 14:30:41.157 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：100.00797980144135
+2021-04-16 14:30:41.157 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.8593065469715044
+2021-04-16 14:32:18.632 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\654788804DFD495A84E0578274DC0485.jpg
+2021-04-16 14:32:18.684 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：100.00798
+2021-04-16 14:32:18.684 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：100.00797980144135
+2021-04-16 14:32:18.684 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：100.00797980144135
+2021-04-16 14:32:18.684 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.8593065469715044
+2021-04-16 15:10:42.052 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\654788804DFD495A84E0578274DC0485.jpg
+2021-04-16 15:11:12.445 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\654788804DFD495A84E0578274DC0485.jpg
+2021-04-16 15:13:42.313 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 15:13:42.365 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：100.00798
+2021-04-16 15:13:42.365 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：100.00797980144135
+2021-04-16 15:13:42.365 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：100.00797980144135
+2021-04-16 15:13:42.365 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.8593065469715044
+2021-04-16 15:22:38.248 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\DCFE8031A7414B46B409E87C1CF7C5F9.jpg
+2021-04-16 15:22:38.301 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：100.00798
+2021-04-16 15:22:38.301 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：100.00797980144135
+2021-04-16 15:22:38.301 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：100.00797980144135
+2021-04-16 15:22:38.301 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.8593065469715044
+2021-04-16 15:32:51.037 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 15:32:51.088 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：100.00798
+2021-04-16 15:32:51.088 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：100.00797980144135
+2021-04-16 15:32:51.088 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：100.00797980144135
+2021-04-16 15:32:51.089 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.8593065469715044
+2021-04-16 15:51:23.284 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 15:51:23.337 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-46.223213
+2021-04-16 15:51:23.338 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：313.7767884461369
+2021-04-16 15:51:23.338 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-46.22321155386313
+2021-04-16 15:51:23.338 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：-0.007248661059929663
+2021-04-16 16:03:17.510 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:03:17.569 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-44.818684
+2021-04-16 16:03:17.569 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：315.18131515269897
+2021-04-16 16:03:17.569 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-44.81868484730101
+2021-04-16 16:03:17.570 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.001074460164142179
+2021-04-16 16:03:33.722 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:03:33.782 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-46.619236
+2021-04-16 16:03:33.782 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：313.3807625461258
+2021-04-16 16:03:33.782 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-46.619237453874184
+2021-04-16 16:03:33.782 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：-0.009595481208143316
+2021-04-16 16:03:42.486 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:03:42.547 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-44.05148
+2021-04-16 16:03:42.547 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：315.94851896098606
+2021-04-16 16:03:42.547 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-44.05148103901394
+2021-04-16 16:03:42.548 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.0056208531021395974
+2021-04-16 16:03:48.176 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:03:48.238 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-40.939518
+2021-04-16 16:03:48.238 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：319.06048154161664
+2021-04-16 16:03:48.238 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-40.93951845838334
+2021-04-16 16:03:48.238 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.02406211283920984
+2021-04-16 16:03:54.615 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:03:54.676 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-44.811527
+2021-04-16 16:03:54.677 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：315.1884722791299
+2021-04-16 16:03:54.677 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-44.81152772087014
+2021-04-16 16:03:54.677 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.0011168727652139936
+2021-04-16 16:04:08.715 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:04:08.775 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：39.289406
+2021-04-16 16:04:08.775 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：39.28940686250036
+2021-04-16 16:04:08.775 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：39.28940686250036
+2021-04-16 16:04:08.775 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.49949278140740955
+2021-04-16 16:04:17.606 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:04:17.661 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-44.629158
+2021-04-16 16:04:17.662 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：315.3708412908281
+2021-04-16 16:04:17.662 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-44.62915870917194
+2021-04-16 16:04:17.662 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.0021975780197218417
+2021-04-16 16:04:27.179 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:04:27.237 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-16 16:04:27.237 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-16 16:04:27.237 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-16 16:04:27.237 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654
+2021-04-16 16:04:33.504 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:04:33.561 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-46.02762
+2021-04-16 16:04:33.561 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：313.9723832135583
+2021-04-16 16:04:33.561 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-46.02761678644167
+2021-04-16 16:04:33.561 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：-0.0060895809566913735
+2021-04-16 16:04:38.039 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:04:38.094 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.22885
+2021-04-16 16:04:38.094 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.228849087795055
+2021-04-16 16:04:38.094 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.228849087795055
+2021-04-16 16:04:38.094 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3983931797795263
+2021-04-16 16:04:42.557 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:04:42.612 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-16 16:04:42.612 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-16 16:04:42.612 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-16 16:04:42.612 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654
+2021-04-16 16:04:47.581 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:04:47.635 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-16 16:04:47.635 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-16 16:04:47.635 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-16 16:04:47.636 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654
+2021-04-16 16:05:02.514 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:05:02.571 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-16 16:05:02.571 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-16 16:05:02.571 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-16 16:05:02.571 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654
+2021-04-16 16:05:07.393 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:05:07.451 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-16 16:05:07.451 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-16 16:05:07.451 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-16 16:05:07.451 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654
+2021-04-16 16:05:11.826 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 16:05:11.884 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.22885
+2021-04-16 16:05:11.884 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.228849087795055
+2021-04-16 16:05:11.884 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.228849087795055
+2021-04-16 16:05:11.884 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3983931797795263
+2021-04-16 17:00:23.274 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 17:00:42.525 INFO  com.acts.opencv.demo.DemoController - url==============E:\compamy_work\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\java_opencv\statics\sourceimage\D7802FFB855D40B48D175D228B457376.jpg
+2021-04-16 17:03:21.237 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:03:21.290 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-46.223213
+2021-04-16 17:03:21.290 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：313.7767884461369
+2021-04-16 17:03:21.290 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-46.22321155386313
+2021-04-16 17:03:21.290 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：-0.007248661059929663
+2021-04-16 17:03:31.703 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:03:31.757 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-44.818684
+2021-04-16 17:03:31.758 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：315.18131515269897
+2021-04-16 17:03:31.758 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-44.81868484730101
+2021-04-16 17:03:31.758 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.001074460164142179
+2021-04-16 17:03:39.994 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:03:40.053 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-46.619236
+2021-04-16 17:03:40.053 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：313.3807625461258
+2021-04-16 17:03:40.053 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-46.619237453874184
+2021-04-16 17:03:40.053 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：-0.009595481208143316
+2021-04-16 17:03:47.409 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:03:47.466 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-44.05148
+2021-04-16 17:03:47.466 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：315.94851896098606
+2021-04-16 17:03:47.466 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-44.05148103901394
+2021-04-16 17:03:47.466 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.0056208531021395974
+2021-04-16 17:03:54.572 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:03:54.630 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-40.939518
+2021-04-16 17:03:54.630 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：319.06048154161664
+2021-04-16 17:03:54.630 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-40.93951845838334
+2021-04-16 17:03:54.630 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.02406211283920984
+2021-04-16 17:04:07.123 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:04:07.185 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-44.811527
+2021-04-16 17:04:07.185 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：315.1884722791299
+2021-04-16 17:04:07.186 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-44.81152772087014
+2021-04-16 17:04:07.186 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.0011168727652139936
+2021-04-16 17:04:14.392 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:04:14.451 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：39.289406
+2021-04-16 17:04:14.451 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：39.28940686250036
+2021-04-16 17:04:14.451 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：39.28940686250036
+2021-04-16 17:04:14.452 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.49949278140740955
+2021-04-16 17:04:21.050 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:04:21.110 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-44.629158
+2021-04-16 17:04:21.110 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：315.3708412908281
+2021-04-16 17:04:21.110 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-44.62915870917194
+2021-04-16 17:04:21.110 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.0021975780197218417
+2021-04-16 17:04:44.766 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:04:44.825 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-16 17:04:44.825 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-16 17:04:44.825 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-16 17:04:44.825 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654
+2021-04-16 17:04:49.782 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:04:49.839 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：-46.02762
+2021-04-16 17:04:49.839 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：313.9723832135583
+2021-04-16 17:04:49.839 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：-46.02761678644167
+2021-04-16 17:04:49.839 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：-0.0060895809566913735
+2021-04-16 17:04:54.386 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:04:54.444 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.22885
+2021-04-16 17:04:54.445 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.228849087795055
+2021-04-16 17:04:54.445 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.228849087795055
+2021-04-16 17:04:54.445 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3983931797795263
+2021-04-16 17:05:00.927 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:05:00.985 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-16 17:05:00.985 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-16 17:05:00.985 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-16 17:05:00.985 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654
+2021-04-16 17:05:07.160 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:05:07.217 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-16 17:05:07.217 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-16 17:05:07.217 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-16 17:05:07.217 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654
+2021-04-16 17:05:11.256 INFO  com.acts.opencv.demo.DemoController - url==============D:\apache-tomcat-7.0.52\webapps\java_opencv\statics\sourceimage\81AB74EEEEB049938596B6172807E8B4.jpg
+2021-04-16 17:05:11.314 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 1角度4：22.317574
+2021-04-16 17:05:11.314 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度5：22.31757371611665
+2021-04-16 17:05:11.314 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 角度6：22.31757371611665
+2021-04-16 17:05:11.314 INFO  com.acts.opencv.demo.DemoController -  霍夫圆变换+霍夫圆直线 刻度：0.3989189553547654
